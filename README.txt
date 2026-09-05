@@ -17,7 +17,7 @@ CARA JALANKAN:
 4. Jalankan: npm start
 5. Buka http://localhost:3000
 6. Admin: http://localhost:3000/admin
-7. Password default: KNOKADMIN
+7. Password default: ADMINKNOK
 
 UNTUK ONLINE:
 Upload project ke server/hosting yang mendukung Node.js dan penyimpanan persisten.
