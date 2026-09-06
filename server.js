@@ -5,7 +5,7 @@ const fs=require("fs");
 const path=require("path");
 const app=express();
 const PORT=process.env.PORT||3000;
-const ADMIN_PASSWORD=process.env.ADMIN_PASSWORD||"KNOKADMIN";
+const ADMIN_PASSWORD=process.env.ADMIN_PASSWORD||"ADMINKNOK";
 const SESSION_SECRET=process.env.SESSION_SECRET||"change-this-secret";
 
 app.use(express.json({limit:"2mb"}));
